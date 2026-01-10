@@ -1,0 +1,47 @@
+{
+  "participants": {
+    "Player1": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player2": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player3": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player4": "019ba8d2-bee6-7e62-b278-7656be6a8d6b"
+  },
+  "results": [
+    {
+      "end_method": "vote",
+      "players": [
+        {
+          "id": "http://player1:9009/",
+          "name": "Player1",
+          "role": "non-spy",
+          "won": false
+        },
+        {
+          "id": "http://player2:9009/",
+          "name": "Player2",
+          "role": "non-spy",
+          "won": false
+        },
+        {
+          "id": "http://player3:9009/",
+          "name": "Player3",
+          "role": "spy",
+          "won": true
+        },
+        {
+          "id": "http://player4:9009/",
+          "name": "Player4",
+          "role": "non-spy",
+          "won": false
+        }
+      ],
+      "voted_as_spy": "Player1",
+      "votes": {
+        "Player1": 1,
+        "Player2": 0,
+        "Player3": 1,
+        "Player4": 1
+      },
+      "result": "The non-spies voted for Player1, but Player3 was actually the spy! Spy wins!"
+    }
+  ]
+}
