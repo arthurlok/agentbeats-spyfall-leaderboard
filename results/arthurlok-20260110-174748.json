@@ -1,0 +1,25 @@
+{
+  "participants": {
+    "Player1": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player2": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player3": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player4": "019ba8d2-bee6-7e62-b278-7656be6a8d6b"
+  },
+  "results": [
+    {
+      "winner": "spy",
+      "winner_role": "spy",
+      "participants": [
+        "Player1",
+        "Player2",
+        "Player3",
+        "Player4"
+      ],
+      "end_method": "spy_guess",
+      "spy": "Player2",
+      "voted_as_spy": null,
+      "votes": null,
+      "result": "The spy Player2 guessed the location: correct!"
+    }
+  ]
+}

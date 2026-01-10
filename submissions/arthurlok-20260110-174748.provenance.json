@@ -1,0 +1,20 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/arthurlok/agentbeats-spyfall/green@sha256:010ea9d8ed124654b6755101753cf2d3d1ecf0b2fddc61b5dbb528a86e81aaba",
+    "Player1": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:e88900be9c5b6317ea3c960bcd5dd31860594889dd2d054398c65146a88d4ff0",
+    "Player2": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:e88900be9c5b6317ea3c960bcd5dd31860594889dd2d054398c65146a88d4ff0",
+    "Player3": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:e88900be9c5b6317ea3c960bcd5dd31860594889dd2d054398c65146a88d4ff0",
+    "Player4": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:e88900be9c5b6317ea3c960bcd5dd31860594889dd2d054398c65146a88d4ff0",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-10T17:47:48Z",
+  "github_actions": {
+    "run_url": "https://github.com/arthurlok/agentbeats-spyfall-leaderboard/actions/runs/20881855273",
+    "run_logs_url": "https://api.github.com/repos/arthurlok/agentbeats-spyfall-leaderboard/actions/runs/20881855273/logs",
+    "ref": "refs/heads/assessment_20260110",
+    "sha": "18004a90dcda69269d98846ce6ca3c68e114b1f8",
+    "repository_url": "https://github.com/arthurlok/agentbeats-spyfall-leaderboard",
+    "workflow_ref": "arthurlok/agentbeats-spyfall-leaderboard/.github/workflows/run-scenario.yml@refs/heads/assessment_20260110",
+    "workflow_sha": "18004a90dcda69269d98846ce6ca3c68e114b1f8"
+  }
+}
