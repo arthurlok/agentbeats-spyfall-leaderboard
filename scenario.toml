@@ -27,5 +27,5 @@ name = "Player4"
 env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
 [config]
-location = "Museum"
+location = "Cathedral"
 num_rounds = 3
