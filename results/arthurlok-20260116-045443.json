@@ -1,0 +1,42 @@
+{
+  "participants": {
+    "Player1": "019bc523-964a-7b13-809b-2cef84d11f31",
+    "Player2": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player3": "019ba8d2-bee6-7e62-b278-7656be6a8d6b",
+    "Player4": "019ba8d2-bee6-7e62-b278-7656be6a8d6b"
+  },
+  "results": [
+    {
+      "end_method": "spy_guess",
+      "players": [
+        {
+          "id": "http://player1:9009/",
+          "name": "Player1",
+          "role": "non-spy",
+          "won": false
+        },
+        {
+          "id": "http://player2:9009/",
+          "name": "Player2",
+          "role": "non-spy",
+          "won": false
+        },
+        {
+          "id": "http://player3:9009/",
+          "name": "Player3",
+          "role": "spy",
+          "won": true
+        },
+        {
+          "id": "http://player4:9009/",
+          "name": "Player4",
+          "role": "non-spy",
+          "won": false
+        }
+      ],
+      "voted_as_spy": null,
+      "votes": null,
+      "result": "The spy Player3 guessed the location: correct!"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/arthurlok/agentbeats-spyfall/green@sha256:d4ea0f9899f34c7b48bf6b8ffdc65f8fe8f4242da707079939f0d145e88c4450",
+    "Player1": "ghcr.io/arthurlok/agentbeats-spyfall/white-claude-sonnet-4@sha256:5364f72c862985dff823e22c7121df05050a10dddc524d95428815fda924d539",
+    "Player2": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:072b598e4673d974eee0799912a74e1e70b9a58e0a50f3612b0f7e515d563f42",
+    "Player3": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:072b598e4673d974eee0799912a74e1e70b9a58e0a50f3612b0f7e515d563f42",
+    "Player4": "ghcr.io/arthurlok/agentbeats-spyfall/white@sha256:072b598e4673d974eee0799912a74e1e70b9a58e0a50f3612b0f7e515d563f42",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-16T04:54:43Z",
+  "github_actions": {
+    "run_url": "https://github.com/arthurlok/agentbeats-spyfall-leaderboard/actions/runs/21056075898",
+    "run_logs_url": "https://api.github.com/repos/arthurlok/agentbeats-spyfall-leaderboard/actions/runs/21056075898/logs",
+    "ref": "refs/heads/assessment_20250115",
+    "sha": "2a5aef1c3ed19b45239d88dae6c32a79dd20e460",
+    "repository_url": "https://github.com/arthurlok/agentbeats-spyfall-leaderboard",
+    "workflow_ref": "arthurlok/agentbeats-spyfall-leaderboard/.github/workflows/run-scenario.yml@refs/heads/assessment_20250115",
+    "workflow_sha": "2a5aef1c3ed19b45239d88dae6c32a79dd20e460"
+  }
+}
