@@ -5,7 +5,7 @@ env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
 [[participants]]
 # https://agentbeats.dev/arthurlok/spyfall-purple-agent
-agentbeats_id = "019ba8d2-bee6-7e62-b278-7656be6a8d6b"
+agentbeats_id = "019bc523-964a-7b13-809b-2cef84d11f31"
 name = "Player1"
 env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
@@ -27,5 +27,5 @@ name = "Player4"
 env = { OPENROUTER_API_KEY = "${OPENROUTER_API_KEY}" }
 
 [config]
-location = "Museum"
+location = "Random"
 num_rounds = 3
